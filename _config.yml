@@ -1,20 +1,4 @@
-name: WATU TEst
-favicon: null
-layout_spectrum: 0.9872092187870294
-typography_spectrum: 0.07219
-title: WATU Test
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+analytics: {}
 color:
   brandColors:
     - '#3C493F'
@@ -24,6 +8,11 @@ color:
     - '#A2E3C4'
   brandStrength: 0.8084993092343211
   lightness: 0.5011641145683825
-  saturation: 0.9160412694327533
   rhythmicContrast: 0.7720719284843653
+  saturation: 0.9160412694327533
+cta: {}
+layout_spectrum: 0
+name: WATU TEst
+opengraph: {}
 purpose: []
+typography_spectrum: 0.07219
