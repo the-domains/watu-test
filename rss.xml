@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[WATU Test]]></title>
+        <description><![CDATA[WATU Test]]></description>
+        <link>https://thegrid.ai/watu-test/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 26 Jan 2016 20:33:53 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/watu-test/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://static.pexels.com/photos/28847/pexels-photo-medium.jpg">]]></description>
+            <link>https://www.pexels.com/</link>
+            <guid isPermaLink="false">5340ea57-8b9d-45d8-bde1-74fd4a6aed5c</guid>
+            <pubDate>Tue, 26 Jan 2016 20:33:15 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
